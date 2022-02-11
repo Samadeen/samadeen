@@ -1,5 +1,7 @@
 ### Hi there 👋
+ I’m Momoh Abdulsamad, I’m a Self-Taught Fullstack Web Developer equipped with latest techniques of Developing and Designing responsive website both for mobile and laptop devices.I have a bachelor’s degree in Agricultural Economics and Extension and I completed some course work on Udemy on Website Developments.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samadeen)](https://github.com/samadeen/github-readme-stats)
 <!--
 **Samadeen/samadeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
