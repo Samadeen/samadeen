@@ -70,7 +70,7 @@ src="https://img.shields.io/github/followers/Samadeen?logo=github&style=for-the-
 
 <a href="http://www.github.com/Samadeen"><img src="https://activity-graph.herokuapp.com/graph?username=Samadeen&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-[![Samadeen's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Samadeen)](https://github.com/anuraghazra/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/c30ccdaf-2ce7-40e9-b5e1-3cd6d2d749aa.svg)](https://wakatime.com/@c30ccdaf-2ce7-40e9-b5e1-3cd6d2d749aa)
 
 
 
