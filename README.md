@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Agricultural Economist
 ----------------------------------------
 
-I’m a Self-Taught Frontend Web Developer equipped with the latest techniques in Developing and Designing responsive websites for mobile, tablet, and desktop devices. I have a bachelor’s degree in Agricultural Economics and Extension.
+I’m a Self-Taught Frontend Web Developer equipped with the latest techniques in Developing and Designing responsive websites for mobile, tablet, and desktop devices. I have a bachelor’s degree in Agricultural Economics and Extension..
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samadeen&label=Profile%20views&color=0e75b6&style=flat" alt="samadeen" /> </p>
 
