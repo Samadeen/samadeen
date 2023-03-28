@@ -13,7 +13,7 @@ I’m a Self-Taught Frontend Web Developer equipped with the latest techniques i
 
 * 🌍  I'm based in Abuja, Nigeria.
 * ✉️  You can contact me at [samadmomoh@gmail.com](mailto:samadmomoh@gmail.com)
-* 🧠  I'm learning React, Node JS, C / C++, Ruby, Solidity, Ether JS and Python.
+* 🧠  I'm learning React, Node JS, C / C++, Ruby, Solidity and Python.
 * 🤝  I'm open to collaborating on Open Source Projects
 * ⚡  If you call my name three times in your mind, I'll Sneeze.
 
